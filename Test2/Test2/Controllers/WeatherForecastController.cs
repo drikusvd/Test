@@ -13,7 +13,7 @@ namespace Test2.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Pizza", "Cheese", "Snacks", "Cake", "Tart", "Milk", "Rice", "Meat", "Chicken", "Beef"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
